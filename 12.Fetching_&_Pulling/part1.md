@@ -49,7 +49,7 @@ Only the remote tracking branch (like `origin/main`) is updated.
 
 * `git pull` is essentially:
 
-> git fetch + git merge
+    > git fetch + git merge
 
 
 It first fetches the changes from the remote, and then **automatically merges them into your current local branch**.

@@ -21,23 +21,16 @@ To rename a remote:
 git remote rename <old> <new>
 ```
 
----
-
 ### Push
 
 To push your local changes to a remote repository:
 
 ```bash
 git push <remote> <branch>
-```
-
-For example:
-
-```bash
+# For example
 git push origin master
 ```
 
----
 
 ### master vs main
 
